@@ -30,7 +30,7 @@ A comprehensive description of the individual attributes and an interactive map-
 
 **Important:** Before you ask, no, I do not expect you to sketch designs that include *all* of the individual regions. There are 948 of them! Your designs should just convey what sort of marks and channels would be used to represent the data in enough detail to get the idea across, but this should not be a finished product depicting all of the regions.
 
-![the commute data set](spatial/commute.png)
+![the commute data set](./spatial/commute.png)
 
 ## 2. Arrange Network Data
 
@@ -44,7 +44,7 @@ The workbook contains two sheets: Co-occurrence and Scenes. In the Co-occurrence
 
 You may use either sheet, or both, to design your visualization. If you are familiar with the story, you are encouraged to use your knowledge of the material towards improving the effectiveness of your design. If you are not familiar with the story, many summaries are available online and the full text is available on [Project Gutenberg](https://www.gutenberg.org/ebooks/1112). You can also find additional data, including a list of lines for each character, at [Open Source Shakespeare](https://www.opensourceshakespeare.org/views/plays/playmenu.php?WorkID=romeojuliet) if you want to enhance the visualization further.
 
-![Verona Woodcut](network/Verona_Woodcut.PNG)
+![Verona Woodcut](./network/Verona_Woodcut.PNG)
 
 ## Deadline
 Your pdf upload to Piazza should be posted before the end of today's class period. Look at what others designed and give feedback! This will be good practice for the poster session for Milestone 3. 
