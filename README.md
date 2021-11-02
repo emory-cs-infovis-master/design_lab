@@ -22,9 +22,9 @@ You have a few options here for looking at the data. You DO NOT have to look at 
 - Also included is a geojson file. The geojson file also has all of the same attributes, but they are nested within the shape for each region so that you could load this into a spatial data visualization or online geojson browser (e.g., http://geojson.io).
 - Finally, I have included the more traditional shapefile zip that you would use if you wanted to load this into a more feature-rich GIS system (e.g., ArcGIS).
 
-Description from the [Atlanta Regional Commission](http://opendata.atlantaregional.com/datasets/commuting-2015):
+Description from the [Atlanta Regional Commission](https://opendata.atlantaregional.com/datasets/GARC::commuting-2016/about):
 
-> This data was developed by the Research & Analytics Division of the Atlanta Regional Commission using data from the 2015 U.S. Census Bureau's American Community Survey to show the method of transportation, in numbers and percentages, that workers use to get to work and their mean travel time by census tract in the Atlanta region.
+> Shows the method of transportation, in numbers and percentages, that workers use to get to work and their mean travel time, by census tract in the Atlanta region.
 
 A comprehensive description of the individual attributes and an interactive map-based data browser can also be found on the link above.
 
