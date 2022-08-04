@@ -47,4 +47,4 @@ You may use either sheet, or both, to design your visualization. If you are fami
 ![Verona Woodcut](./network/Verona_Woodcut.PNG)
 
 ## Deadline
-Your pdf upload to Piazza should be posted before the end of the day. Try to finish up before class ends -- this isn't intended to be more than an in-class activity! Look at what others designed and give feedback. This will be good practice for the poster session for Milestone 3. 
+Your pdf upload to Slack should be posted before the end of the day to the [in_class_exercises channel](https://emoryinfovis22f.slack.com/archives/C03SDU19MPD). Try to finish up before class ends -- this isn't intended to be more than an in-class activity! Look at what others designed and give feedback in the respective threads. This will be good practice for the poster session for Milestone 3. 
