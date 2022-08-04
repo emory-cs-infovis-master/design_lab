@@ -1,5 +1,7 @@
 # Design Lab: Arrange Map or Network Data
 
+**Work in pairs, with someone who is not in your project group.**
+
 In this design lab, you will choose **one** of the two possible tasks listed below. You are going to follow  the [five design sheet process](http://fds.design/) that we are using for Milestone 3 on the group project, with some minor differences.
 
 1. You will work independently on the first sheet (brainstorming).
@@ -47,4 +49,4 @@ You may use either sheet, or both, to design your visualization. If you are fami
 ![Verona Woodcut](./network/Verona_Woodcut.PNG)
 
 ## Deadline
-Your pdf upload to Slack should be posted before the end of the day to the [in_class_exercises channel](https://emoryinfovis22f.slack.com/archives/C03SDU19MPD). Try to finish up before class ends -- this isn't intended to be more than an in-class activity! Look at what others designed and give feedback in the respective threads. This will be good practice for the poster session for Milestone 3. 
+Your pdf upload (one per pair) to Slack should be posted before the end of the day to the [in_class_exercises channel](https://emoryinfovis22f.slack.com/archives/C03SDU19MPD). Try to finish up before class ends -- this isn't intended to be more than an in-class activity! Look at what others designed and give feedback in the respective threads. This will be good practice for the poster session for Milestone 3. 
