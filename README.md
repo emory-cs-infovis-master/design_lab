@@ -6,7 +6,7 @@ In this design lab, you will choose **one** of the two possible tasks listed bel
 
 1. You will work independently on the first sheet (brainstorming).
 2. You will work together as a group on the remaining sheets.
-3. Your group will collect and post your resulting sheets 2, 3, 4, and 5 to [Piazza](https://piazza.com/emory/fall2021/cs485cs584/home) under in-class exercises -> design lab. 
+3. Your group will collect and post your resulting sheets 2, 3, 4, and 5 to Slack under in_class_exercises. 
 
 Your [brainstorming page](http://fds.design/index.php/2015/06/25/sheet-1-brain-storm/) should make it clear that you explored the design space available for analyzing the dataset. You should follow the process for filtering, categorizing, and combining the many possible small ideas so that you hone in on the best possible solution.
 
@@ -49,4 +49,4 @@ You may use either sheet, or both, to design your visualization. If you are fami
 ![Verona Woodcut](./network/Verona_Woodcut.PNG)
 
 ## Deadline
-Your pdf upload (one per pair) to Slack should be posted before the end of the day to the [in_class_exercises channel](https://emoryinfovis22f.slack.com/archives/C03SDU19MPD). Try to finish up before class ends -- this isn't intended to be more than an in-class activity! Look at what others designed and give feedback in the respective threads. This will be good practice for the poster session for Milestone 3. 
+Your pdf upload (one per pair) to Slack should be posted before the end of the day to the in_class_exercises channel. Try to finish up before class ends -- this isn't intended to be more than an in-class activity! Look at what others designed and give feedback in the respective threads. This will be good practice for the poster session for Milestone 3. 
