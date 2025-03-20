@@ -2,15 +2,15 @@
 
 **Work in pairs, with someone who is not in your project group.**
 
-In this design lab, you will choose **one** of the two possible tasks listed below. You are going to follow  the [five design sheet process](http://fds.design/) that we are using for Milestone 3 on the group project, with some minor differences.
+In this design lab, you will choose **one** of the two possible tasks listed below. You are going to follow  the five design sheet process that we are using for Milestone 3 on the group project, with some minor differences.
 
 1. You will work independently on the first sheet (brainstorming).
 2. You will work together as a group on the remaining sheets.
 3. Your group will collect and post your resulting sheets 2, 3, 4, and 5 to Slack under in_class_exercises. 
 
-Your [brainstorming page](http://fds.design/index.php/2015/06/25/sheet-1-brain-storm/) should make it clear that you explored the design space available for analyzing the dataset. You should follow the process for filtering, categorizing, and combining the many possible small ideas so that you hone in on the best possible solution.
+Your brainstorming page should make it clear that you explored the design space available for analyzing the dataset. You should follow the process for filtering, categorizing, and combining the many possible small ideas so that you hone in on the best possible solution.
 
-Your [initial design page](http://fds.design/index.php/2015/06/25/sheet-2-3-4-initial-designs/) should include visualization(s) that would allow a user to explore the dataset. These should be more complex than a single bar chart, line graph, or pie chart. In this lab, the "what" is decided for you, but it is up to you to decide the "why" and "how." Make certain that both are clear, and follow the design guidelines and rules of thumb that we have emphasized in this course.
+Your initial design page should include visualization(s) that would allow a user to explore the dataset. These should be more complex than a single bar chart, line graph, or pie chart. In this lab, the "what" is decided for you, but it is up to you to decide the "why" and "how." Make certain that both are clear, and follow the design guidelines and rules of thumb that we have emphasized in this course.
 
 ## 1. Arrange Spatial Data
 You will design a visualization for a geospatial dataset. 
